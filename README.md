@@ -34,7 +34,7 @@ A modern, user-friendly platform to share, discover, and manage recipes. Designe
 	JWT (JSON Web Tokens): Secure user authentication.
 
 ### 📁 Project Structure
-plaintext
+```plaintext
 recipe-sharing-platform/
 ├── config/
 │   └── db.js                 # MongoDB connection
@@ -66,6 +66,7 @@ recipe-sharing-platform/
 ├── package.json              # Node.js dependencies
 ├── server.js                 # Server entry point
 └── README.md                 # Project documentation
+```
 
 ### ⚙️ Installation
 
